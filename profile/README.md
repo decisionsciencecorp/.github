@@ -35,9 +35,8 @@ We work in short cycles with explicit assumptions and confidence bounds. You own
 | [**invoicing**](https://github.com/decisionsciencecorp/invoicing) | Invoicing tooling |
 | [**orderboard**](https://github.com/decisionsciencecorp/orderboard) | Order board application |
 | [**payroll**](https://github.com/decisionsciencecorp/payroll) | Payroll utilities |
-| [**fuel.decisionsciencecorp.com**](https://github.com/decisionsciencecorp/fuel.decisionsciencecorp.com) | Fuel site / stack |
 
-Private repositories in this org cover client engagements, internal platforms (CRM, Kitchen POS, Sanctum Tasks), and staging environments.
+Private repositories in this org cover client engagements, internal platforms (CRM, Kitchen POS, Fuel, Sanctum Tasks), and staging environments.
 
 ---
 
