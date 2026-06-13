@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-white.svg" alt="Decision Science Corp" width="420">
+<img src="https://raw.githubusercontent.com/decisionsciencecorp/.github/main/profile/assets/logo-white.svg" alt="Decision Science Corp" width="420">
 
 ### Applied data science & software engineering
 
